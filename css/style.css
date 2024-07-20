@@ -18,7 +18,7 @@ body{
 }
 
 header{
-    background: linear-gradient(45deg, #4a148c, #3a2430);
+    background: linear-gradient(45deg,#4a148c,#3a2430);
     padding: 20px 0;
 }
 
@@ -83,6 +83,14 @@ section h2{
 .profile h3{
     font-size:20px;
     margin-bottom: 10px;
+}
+
+.points{
+    margin-left: 3%;
+}
+
+.subpoints{
+    margin-left: 3%;
 }
 
 .project p{
